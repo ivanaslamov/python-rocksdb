@@ -8,7 +8,6 @@ extra_compile_args = [
     '-std=c++11',
     '-O3',
     '-Wall',
-    '-Wconversion',
     '-fno-strict-aliasing',
     '-fno-rtti',
 ]
